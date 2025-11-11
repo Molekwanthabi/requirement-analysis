@@ -157,4 +157,24 @@ Go to File → Export As → PNG
 
 Name it alx-booking-uc.png
 
+## Acceptance Criteria
+
+The project will be considered complete when all the following are met:
+
+- All sections of the README are present and clearly explained:
+  - What is Requirement Analysis?
+  - Why is Requirement Analysis Important?
+  - Key Activities in Requirement Analysis
+  - Types of Requirements (Functional & Non-functional)
+  - Use Case Diagrams
+- The `alx-booking-uc.png` diagram is included and correctly linked.
+- GitHub repository is properly set up with remote origin.
+- All commits are pushed to the `main` branch.
+- The README is well-formatted and easy to read.
+
+
+
+
+
+
 Save it in your project folder (requirement-analysis/)
